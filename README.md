@@ -8,9 +8,11 @@ Provincial Hexagon Map
  - COVID cases by provinces
  - lockdowns by province or red/green/? zone
 
--
--
 
+- data sources:
+-  https://en.wikipedia.org/wiki/COVID-19_pandemic_in_Canada
+-  https://github.com/ccodwg/Covid19Canada
+-     https://github.com/ccodwg/Covid19Canada/blob/master/timeseries_prov/cases_timeseries_prov.csv
 
 
 
