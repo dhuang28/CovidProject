@@ -1,5 +1,13 @@
 # CovidProject
 
+April 24, 2021
+- David and Harriet to create account and establish connection to Azure Data Gen2 storage
+- Harriet to experiment with Python and Tableau
+- David and Harriet to review Streaming Azure Analytics
+
+
+
+
 Data collection
 
 
