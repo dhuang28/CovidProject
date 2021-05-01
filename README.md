@@ -4,6 +4,7 @@ April 24, 2021
 - David and Harriet to create account and establish connection to Azure Data Gen2 storage
 - Harriet to experiment with Python and Tableau
 - David and Harriet to review Streaming Azure Analytics
+
 May 1, 2021
 - David and Harriet to research connect tableau to Azure SQL / create firewall rule on Azure SQL DB (Windows Azure Management Portal)
 - 
