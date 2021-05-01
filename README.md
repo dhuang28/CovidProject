@@ -7,7 +7,7 @@ April 24, 2021
 
 May 1, 2021
 - David and Harriet to research connect tableau to Azure SQL / create firewall rule on Azure SQL DB (Windows Azure Management Portal)
-- 
+- David and Harriet to research using Azure streaming jobs to establish news feed to tableau dashboard : https://docs.microsoft.com/en-us/learn/modules/introduction-to-data-streaming/1-introduction
 
 
 
